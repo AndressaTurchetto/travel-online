@@ -1,7 +1,8 @@
 # Travel-online
 
 The is a fictitious StartUP. On the website we can search for flight tickets and even filter your results by prices, connections and companies. It also has registration, login and profile editing features.
-<img src="screenshot.png" alt="Imagem tela inicial" width="50%">
+
+<img src="screenshot.png" alt="Home screen image" width="50%">
 
 ## ✔️ Techniques and technologies used
 
