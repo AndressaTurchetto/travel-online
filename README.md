@@ -1,18 +1,17 @@
-# Jornada Milhas
+# Travel-online
 
-O é uma StartUP fictícia. Atualmente, é um site onde podemos buscar por passagens de avisão e até filtrar seus resultados por preços, conexões e companhias. Também conta com as funcionalidades de cadastro, login e edição de perfil.
-
+The is a fictitious StartUP. On the website we can search for flight tickets and even filter your results by prices, connections and companies. It also has registration, login and profile editing features.
 <img src="screenshot.png" alt="Imagem tela inicial" width="50%">
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Techniques and technologies used
 
 - `Angular`
 - `Playwright`
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Run the project
 
-Para abrir e rodar o projeto, clone com o comando `git clone https://github.com/AndressaTurchetto/viajaNet.git` execute `npm i` para instalar as dependências e `ng serve` para iniciar o projeto.
+To open and run the project, clone with the command `git clone https://github.com/AndressaTurchetto/travel-online.git` run `npm i` to install the dependencies and `ng serve` to start the project.
 
-Depois, acesse <a href="http://localhost:4200/">http://localhost:4200/</a> no seu navegador.
+Then, access <a href="http://localhost:4200/">http://localhost:4200/</a> in your browser.
 
-Você também precisa rodar o [back-end](https://github.com/AndressaTurchetto/viajaNetApi).
+You also need to run the [back-end](https://github.com/AndressaTurchetto/travel-online-api.git).
