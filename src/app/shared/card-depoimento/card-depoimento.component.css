@@ -1,0 +1,25 @@
+.depoimento {
+  max-width: 320px;
+  background-color: #FEF7FF;
+  border: none;
+}
+.depoimento img {
+  max-width: 56px;
+  max-height: 56px;
+  margin-top: 16px;
+}
+.depoimento ul {
+  padding: 0;
+  list-style: none;
+}
+.depoimento ul li {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.depoimento mat-card-content {
+  display: flex;
+  align-items: start;
+  gap: 16px;
+}/*# sourceMappingURL=card-depoimento.component.css.map */

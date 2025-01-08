@@ -1,0 +1,81 @@
+app-container {
+  width: 60%;
+  margin-bottom: 48px;
+  margin-top: 32px;
+}
+app-container .acoesPerfil {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 12px 16px 12px 0;
+}
+app-container .grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
+app-container .grid-container .full-width {
+  grid-column: 1/span 2;
+}
+app-container .grid-container .grid-item {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 8px;
+}
+app-container .grid-container .grid-item .radio-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 18px;
+}
+app-container .grid-container .grid-item .drop-container {
+  margin-bottom: 16px;
+}
+app-container .grid-container .grid-item .drop-container .custom-error {
+  font-size: 12px;
+  margin-left: 12px;
+}
+app-container mat-card-title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 32px;
+  margin-top: 40px;
+}
+app-container mat-card-actions {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+app-container mat-card-actions button {
+  margin: 0 8px;
+}
+app-container mat-divider {
+  margin: 0 16px;
+  border-top-color: #79747E;
+  margin-top: 24px;
+}
+app-container h2 {
+  font-weight: 400;
+  font-size: 22px;
+  color: #1D1B20;
+  margin-left: 16px;
+}
+app-container .btn-editar {
+  background: #E6E0E9;
+}
+app-container button img {
+  vertical-align: middle;
+}
+app-container .acessoPerfil {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 16px 24px 0;
+}
+@media (max-width: 600px) {
+  app-container .grid-container {
+    grid-template-columns: 1fr;
+  }
+  app-container .full-width {
+    grid-column: 1;
+  }
+}/*# sourceMappingURL=form-base.component.css.map */

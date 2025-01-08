@@ -1,0 +1,23 @@
+.app-footer {
+  background-color: black;
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.app-footer .inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.app-footer .inner img {
+  max-width: 100%;
+  max-height: 40px;
+}
+.app-footer .inner ul {
+  padding: 0;
+  list-style: none;
+}
+.app-footer .inner ul.socials li {
+  text-align: center;
+}/*# sourceMappingURL=footer.component.css.map */

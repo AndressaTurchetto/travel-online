@@ -1,0 +1,27 @@
+.modal {
+  border: 1px solid #1D1B20;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.modal h1 {
+  font-size: 32px;
+  padding: 12px;
+}
+.modal .selecao-idade {
+  display: flex;
+  justify-content: space-between;
+}
+.modal .selecao-categoria {
+  margin-top: 32px;
+  color: #1D1B20;
+}
+.modal .modal-actions {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.modal .modal-actions button {
+  margin: 0 8px;
+  width: 100%;
+}/*# sourceMappingURL=modal.component.css.map */

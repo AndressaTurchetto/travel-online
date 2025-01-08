@@ -1,0 +1,10 @@
+.homepage .card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 16px;
+  margin-bottom: 40px;
+}
+.homepage h2 {
+  font-size: 32px;
+}/*# sourceMappingURL=home.component.css.map */

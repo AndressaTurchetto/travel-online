@@ -1,0 +1,20 @@
+section p {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #000000;
+}
+section a {
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: 600;
+  color: #6750A4;
+}
+section app-container {
+  padding: 112px 0 112px 0;
+}
+section figure {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=pagina-nao-encontrada.component.css.map */

@@ -1,0 +1,18 @@
+.filtros-complementares {
+  width: 260px;
+}
+.filtros-complementares .cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+.filtros-complementares .cabecalho h4 {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+}
+.filtros-complementares button {
+  width: 100%;
+}/*# sourceMappingURL=filtros-complementares.component.css.map */

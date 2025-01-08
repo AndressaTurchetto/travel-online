@@ -1,0 +1,19 @@
+.busca-page app-banner {
+  margin-bottom: 40px;
+}
+.busca-page .conteudo {
+  display: flex;
+  gap: 24px;
+}
+.busca-page .passagens {
+  flex-grow: 1;
+}
+.busca-page .passagens .destaques {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.busca-page .passagens .destaques app-card {
+  flex-grow: 1;
+}/*# sourceMappingURL=busca.component.css.map */

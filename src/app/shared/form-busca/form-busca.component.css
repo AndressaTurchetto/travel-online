@@ -1,0 +1,30 @@
+.form-busca {
+  margin: 40px 0;
+  display: block;
+}
+.form-busca .flex-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 16px 0;
+}
+.form-busca .drop-container {
+  max-width: 230px;
+}
+.form-busca .input-container {
+  margin-bottom: -1.25em;
+}
+.form-busca .mat-button-toggle-checked {
+  background-color: #F7F2FA;
+}
+.form-busca h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.form-busca mat-chip .inner {
+  overflow: visible;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}/*# sourceMappingURL=form-busca.component.css.map */
